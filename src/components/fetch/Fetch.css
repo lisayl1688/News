@@ -1,0 +1,13 @@
+.oneCard {
+    border-radius: 15px;
+    padding: 5%;
+
+     backdrop-filter: blur(10px);
+   
+
+}
+
+.oneCard, p, img {
+    background-color: rgb(10 8 8 / 5%);;
+
+}
